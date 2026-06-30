@@ -16,10 +16,10 @@
 name: "Divinsha S"
 role: "AI & Data Science Student"
 college: "SKP Engineering College"
-year: "2nd Year — BTech AI DS"
+year: "3rd Year — BTech AI DS"
 score: "81.5%"
 currently_building: "AI-Based Space Anomaly Detection System"
-fun_fact: "I watch the sky and wonder what the data is hiding 🛰️"
+fun_fact: I watch the sky and wonder what the data is hiding 🛰️..
 ```
 
 - 🔭 Currently working on an **AI-powered system that detects anomalies in space data** — radiation spikes, unknown objects, debris collision risks, and unusual cosmic signals.
